@@ -31,7 +31,7 @@
         <dependency>
             <groupId>com.isda</groupId>
             <artifactId>cdm</artifactId>
-            <version>4.0.0-dev.43</version>
+            <version>4.0.0-dev.45</version>
         </dependency>
     </dependencies>
 
